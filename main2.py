@@ -4,11 +4,11 @@ shopping_dict = {
 k=0
 print('Lista zakupów')
 for r in shopping_dict :
-     k = k + len(shopping_dict[r])
+    k = k + len(shopping_dict[r])
     print(f'Idę do {str.capitalize(r)} kupić {shopping_dict[r]}')
 print(f'Kupiono {k} produktów')   
 print('Nie kupiono sera i jabłek')
-for i in range (15)
+for i in range(15):
     i=i+i
     print(i)
 
