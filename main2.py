@@ -8,7 +8,6 @@ for r in shopping_dict :
     print(f'Idę do {str.capitalize(r)} kupić {shopping_dict[r]}')
 print(f'Kupiono {k} produktów')   
 print('Nie kupiono sera i jabłek')
-for i in range(15):
-    i=i+i
-    print(i)
+
+
 
